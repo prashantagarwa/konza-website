@@ -1,0 +1,34 @@
+.navbar
+{
+	height: 20dp;
+	width: 100dp;
+	background-color: black;
+}
+.heading{
+	color: white;
+}
+.navbar1{
+	height: 100dp;
+	width: 100dp;
+	color: grey;
+}
+.button {
+  padding: 15px 3px !important;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 5px #999;
+}
+
+.button:hover {background-color: #F3BF6A;}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 1px #666;
+  transform: translateY(4px);
+}
